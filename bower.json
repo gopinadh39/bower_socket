@@ -1,0 +1,25 @@
+{
+  "name": "bower_socket",
+  "description": "Test bower socket package",
+  "main": "main.js",
+  "keywords": [
+    "socket",
+    "bower"
+  ],
+  "authors": [
+    "gopinadh gottumukkala <gopinadh67@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gopinadh39/bower_socket",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3"
+  }
+}
